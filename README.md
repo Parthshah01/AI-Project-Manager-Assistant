@@ -2,7 +2,7 @@
 
 An AI-powered Project Management Assistant that transforms unstructured meeting notes into structured, actionable tasks using a locally hosted Large Language Model (LLM).
 
-Built as part of the **E2M Solutions Practical Assessment** using **FastAPI**, **React**, **SQLite**, and **Ollama (Qwen2.5:7B)**.
+This project demonstrates end-to-end full-stack AI application development using **FastAPI**, **React**, **SQLite**, and **Ollama (Qwen2.5:7B)**.
 
 ---
 
