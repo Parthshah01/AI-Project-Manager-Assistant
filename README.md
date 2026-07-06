@@ -27,11 +27,11 @@ Built as part of the **E2M Solutions Practical Assessment** using **FastAPI**, *
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](DashBoard.png)
 
 ### Extracted Tasks
 
-![Tasks](screenshots/tasks.png)
+![Tasks](Extracted_Task.png)
 
 ---
 
