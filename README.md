@@ -27,7 +27,7 @@ Built as part of the **E2M Solutions Practical Assessment** using **FastAPI**, *
 
 ### Dashboard
 
-![Dashboard](DashBoard.png)
+![Dashboard](DashBoard_Preview.png)
 
 ### Extracted Tasks
 
